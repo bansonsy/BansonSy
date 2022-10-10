@@ -1,5 +1,5 @@
 # 👋 Banson Sy
-**`Data Analyst`**
+**`Data Scientist, Analytics`**
 
 I'm a data enthusiast who's motivated by the power of technology as a tool for positive change, with a background in Communications and Data Analytics. I was born and raised in the sunshine state of California. I'm curently pursing a Master's degree in Data Science and Analytics at WGU. 
 
