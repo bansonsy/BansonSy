@@ -1,14 +1,8 @@
 # 👋 Banson Sy
-**`Data Scientist, Analytics`**
+**`Software Engineer`**
 
-I'm a data enthusiast who's motivated by the power of technology as a tool for positive change, with a background in Communications and Data Analytics. I was born and raised in the sunshine state of California. I'm curently pursing a Master's degree in Data Science and Analytics at WGU. 
-
-I happen to stumble upon the world of Data. I was fascinated by how data can be used to solve real business problems. 
-
-I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
-:books: I’m currently learning Python, Pandas, NumPy, and Tableau.  
-:pushpin: Interests: Data, Research, Fashion, Music, TV Shows.
+:books: I’m currently learning Java, React, Node, Express 
+:pushpin: Interests: Technology, Fashion, Music, TV Shows.
 
 <a href="https://www.linkedin.com/in/bansonsy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://public.tableau.com/app/profile/banson.sy" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a>
@@ -34,11 +28,11 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
 
 ### ⭐️ Repositories
 <details>
-  <summary>Maven Analytics</summary>
-  <p><a href="https://www.mavenanalytics.io/path/bi-analyst">Maven Analytics BI Path</a> is a path for aspiring analysts looking to master a powerful stack of tools. Both the SQL and Python courses consists of guided and non-guided projects to add to your portfolio. Below will consists of my work done while taking the course.</p>
+  <summary>Scrimba</summary>
+  <p><a href="https://scrimba.com/learn/frontend">Scrimba Front-End Developer Path</a>lorem ipsum</p>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/bansonsy/Maven-Analytics">Maven Analytics (Temporary)</a></li>
+      <li><a href="">Scrimba (Temporary)</a></li>
     </ul>
   </blockquote>
 </details> 
