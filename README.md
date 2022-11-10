@@ -1,6 +1,7 @@
 # 👋 Banson Sy
 **`Software Engineer`**
 
+Repo Work in Progress...
 :books: I’m currently learning Java, React, Node, Express 
 :pushpin: Interests: Technology, Fashion, Music, TV Shows.
 
